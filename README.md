@@ -6,7 +6,7 @@
 # OSfooler-NG
  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Version: 1.0b](https://img.shields.io/badge/version-1.0b-blue.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/segofensiva/OSfooler-ng/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/segofensiva/OSfooler-ng/graphs/commit-activity) [![Join the chat at https://gitter.im/PrivyERA/matrix-bridge](https://badges.gitter.im/PrivyERA/matrix-bridge.svg)](https://gitter.im/PrivyERA/matrix-bridge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
 # Synopsis
 
